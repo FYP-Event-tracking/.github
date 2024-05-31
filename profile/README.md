@@ -2,12 +2,16 @@
 
 ## Architecture diagram
 
-![Progect Argus drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/409c39b4-0005-475a-bc5c-4210c3862739)
+![Progect Argus drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/18673a7d-6d8a-40c1-9470-f00d896ed074)
 
-# Backend architecture diagram
+## Endpoint architecture diagram
 
-![ArgusBackend drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/6e8d633d-4b2c-4e08-b558-d8004e392443)
+![ProjectArgus-EndpointDiagram drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/1aea627b-a6a5-4e24-be16-e7ed9aaddd00)
 
-# Frontend architecture diagram
+## Backend architecture diagram
 
-![FrontendArgus drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/90374fa8-2a47-492c-bb59-5fa3810a596a)
+![ArgusBackend drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/5415b8f7-df2e-4103-99a3-ead77fe5cb31)
+
+## Frontend architecture diagram
+
+![FrontendArgus drawio](https://github.com/FYP-Event-tracking/.github/assets/92631934/b1f1b51f-dc4b-4a70-83da-36b70996df0c)
